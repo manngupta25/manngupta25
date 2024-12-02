@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mann Gupta
-==================================================================================================================================
+Hi 👋 My name is Mann Gupta
+===========================
 
 WEB DEVELOPER AND JAVA DEVELOPER
 --------------------------------
 
-A passionate Java developer with expertise in core Java, object-oriented programming, and basic software development concepts, familiar with Spring and Hibernate frameworks, and experience in web application building and database management, seeking an opportunity to grow skills in a supportive environment.
+Dedicated Java Developer with a strong foundation in object-oriented programming, database management, and backend development. Proficient in Core Java, Spring Boot, and Hibernate, with experience building scalable applications. Passionate about developing robust software solutions and contributing to innovative projects.
 
 * 🌍  I'm based in Delhi.
 * ✉️  You can contact me at [guptamann1125@gmail.com](mailto:guptamann1125@gmail.com)
